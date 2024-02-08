@@ -13,8 +13,7 @@
 	  Security Clearance: Department of Defense - Secret Level (2014 - Present)
   </li>
 </ul>
-
-<br>
+<hr>
 <h3>Career History</h3>
       <b>Full Stack C# Developer | ClockShark | Aug 2022 - Feb 2024 </b><br>
 	<ul>
@@ -73,9 +72,8 @@
 			 Full stack developer on a simulation that modeled flight deck operations to verify the capabilities of the new Ford Class aircraft carrier (CVN-78) prior to the ship's delivery to the US Navy.
 		</li>
 	</ul>
-<br>
-
-Education<br>
+<hr>
+<h3>Education</h3>
     Master of Engineering in Computational Modeling and Simulation Engineering (CMSE)<br>
 		      Old Dominion University (ODU), Norfolk, VA (August, 2016)	<br>
     Bachelor of Science in Modeling, Simulation, and Visualization Engineering (MSVE)<br>
